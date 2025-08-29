@@ -5,7 +5,7 @@
     "bindings": [
       {
         "name": "ClassDO",
-        "class_name": "class-manager"
+        "class_name": "class-manager-classdo"
       }
     ]
   },
