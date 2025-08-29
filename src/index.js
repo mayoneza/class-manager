@@ -13,6 +13,6 @@ export default {
 };
 
 // Durable Object
-export class class-manager-classdo extends DurableObject {
+export class classManagerClassDO extends DurableObject {
   
       }
