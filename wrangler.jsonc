@@ -4,7 +4,7 @@
   "durable_objects": {
     "bindings": [
       {
-        "name": "class-manager",
+        "name": "ClassDO",
         "class_name": "class-manager"
       }
     ]
