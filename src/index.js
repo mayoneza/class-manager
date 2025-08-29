@@ -4,7 +4,7 @@ import { DurableObject } from "cloudflare:workers";
 export default {
   async fetch(request, env) {
     
-    let stub = env.ClassDO.getByName(name);
+    
 
     
     
