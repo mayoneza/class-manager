@@ -1,0 +1,20 @@
+{
+  "name": "class-manager",
+  "main": "src/index.js",
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "class-manager",
+        "class_name": "class-manager"
+      }
+    ]
+  },
+  "migrations": [
+    {
+      "tag": "v1",
+      "new_sqlite_classes": [
+        "Counter"
+      ]
+    }
+  ]
+}
